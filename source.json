@@ -67,6 +67,15 @@
       ],
       "versions": [
         {
+          "version": "1.1",
+          "date": "2026-06-30",
+          "size": 167970,
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/GooseClicker-1.1.ipa",
+          "localizedDescription": "What's new in 1.1:\n• Bigger, easier-to-tap mute button\n• New \"cha-ching\" sound when buying from the shop\n• Golden-yellow accent across the tab bar, mute button, and shop\n• Refreshed tab icons, with the first tab now \"Home\"\n• Tidied-up shop header layout",
+          "buildVersion": "2",
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0",
           "date": "2026-06-30",
           "size": 164502,
