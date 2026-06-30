@@ -11,22 +11,24 @@ https://raw.githubusercontent.com/zobeez/zoes-source/main/source.json
 
 ## How this is organized
 
-This repo holds **only the catalog** (`source.json`). Each app keeps its own
-repo, which hosts that app's `.ipa` (as a GitHub Release), icon, and
-screenshots. `source.json` links out to those URLs — they can live in any repo.
+This **public** repo hosts everything AltStore needs to fetch: the catalog
+(`source.json`), each app's `icon.png` + screenshots, and each app's `.ipa`
+(attached to a GitHub Release here). App source code lives in separate, private
+repos — AltStore only needs the public asset URLs, which all live here.
 
-| App | Repo | Assets |
+| App | Bundle ID | Assets (in this repo) |
 | --- | --- | --- |
-| Hex Code Getter | [`zobeez/hex-code-getter`](https://github.com/zobeez/hex-code-getter) | icon + screenshots committed to the repo; `.ipa` attached to a Release |
+| Hex Code Getter | `io.altstore.hexcodegetter` | `icon.png`, `screenshots/`, Release `v1.0` → `HexCodeGetter-1.0.ipa` |
 
 ## Adding another app
 
-1. Create the app's own repo; commit its `icon.png` + screenshots and attach
-   its `.ipa` to a GitHub Release.
-2. Append a new object to the `apps` array in `source.json` pointing at that
-   app's URLs (same shape as the existing entry). Optionally add its bundle ID
-   to `featuredApps`.
-3. Commit `source.json`. AltStore picks it up on its next refresh.
+1. Build the app's unsigned `.ipa` and attach it to a GitHub **Release** in this
+   repo (use a unique tag, e.g. `app2-v1.0`).
+2. Commit that app's icon + screenshots here (e.g. under `app2/`).
+3. Append a new object to the `apps` array in `source.json` pointing at those
+   URLs (same shape as the existing entry). Optionally add its bundle ID to
+   `featuredApps`.
+4. Commit `source.json`. AltStore picks it up on its next refresh.
 
 ## Shipping an update to an existing app
 
