@@ -47,6 +47,42 @@
         ],
         "privacy": {}
       }
+    },
+    {
+      "name": "goose clicker",
+      "bundleIdentifier": "devplaceholder.B2S5RCKS.goose_clicker",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
+      "screenshots": [
+        "https://example.com/myapp_portrait_screenshot1.png",
+        "https://example.com/myapp_portrait_screenshot2.png",
+        {
+          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-06-30",
+          "size": 165411,
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/GooseClicker.ipa",
+          "localizedDescription": "Initial release.",
+          "buildVersion": "1",
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {}
+      }
     }
   ],
   "news": [
