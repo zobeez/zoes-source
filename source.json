@@ -1,40 +1,74 @@
 {
   "name": "Zoe's Source",
-  "identifier": "io.altstore.zoe",
-  "subtitle": "A collection of handy iOS apps.",
-  "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/icon.png",
-  "website": "https://github.com/zobeez/zoes-source",
-  "tintColor": "#F54F32",
+  "subtitle": "All my apps in one place.",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "website": "https://example.com",
+  "patreonURL": "https://www.patreon.com/cw/example",
+  "tintColor": "#4185A9",
   "featuredApps": [
-    "io.altstore.hexcodegetter"
+    "com.example.myapp",
+    "com.example.anotherapp"
   ],
   "apps": [
     {
-      "name": "Hex Code Getter",
+      "name": "hex code getter",
       "bundleIdentifier": "io.altstore.hexcodegetter",
-      "developerName": "Zoe",
-      "subtitle": "Pull color palettes from your favorite characters.",
-      "localizedDescription": "Hex Code Getter extracts color palettes from animated characters and gives you the exact hex codes. Search, import, organize into folders, and build your own character library.",
-      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/icon.png",
-      "tintColor": "#F54F32",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
       "screenshots": [
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/screenshots/screenshot1.png"
+        "https://example.com/myapp_portrait_screenshot1.png",
+        "https://example.com/myapp_portrait_screenshot2.png",
+        {
+          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+          "width": 2556,
+          "height": 1179
+        }
       ],
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "1",
           "date": "2026-06-30",
-          "localizedDescription": "First AltStore release!",
-          "downloadURL": "https://github.com/zobeez/zoes-source/releases/download/v1.0/HexCodeGetter-1.0.ipa",
           "size": 279173,
+          "downloadURL": "https://example.com/myapp_v1.0.ipa",
+          "localizedDescription": "Initial release.",
+          "buildVersion": "1",
           "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
         "privacy": {}
       }
+    }
+  ],
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "new_feature",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2023-03-15",
+      "tintColor": "#5CA399",
+      "imageURL": "https://example.com/new_feature_image.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details"
+    },
+    {
+      "title": "App Update Available",
+      "identifier": "app_update",
+      "caption": "An update is available for My Example App.",
+      "date": "2023-03-10T10:00:00-07:00",
+      "tintColor": "#3660A2",
+      "imageURL": "https://example.com/app_update_image.png",
+      "notify": false,
+      "appID": "com.example.myapp"
     }
   ]
 }
