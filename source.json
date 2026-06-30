@@ -69,11 +69,11 @@
         {
           "version": "1.0",
           "date": "2026-06-30",
-          "size": 165411,
+          "size": 164512,
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/GooseClicker.ipa",
           "localizedDescription": "Initial release.",
           "buildVersion": "1",
-          "minOSVersion": "27.0"
+          "minOSVersion": "26.0"
         }
       ],
       "appPermissions": {
