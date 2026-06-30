@@ -1,0 +1,40 @@
+{
+  "name": "Zoe's Source",
+  "identifier": "io.altstore.zoe",
+  "subtitle": "A collection of handy iOS apps.",
+  "iconURL": "https://raw.githubusercontent.com/zobeez/hex-code-getter/main/icon.png",
+  "website": "https://github.com/zobeez/zoes-source",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "io.altstore.hexcodegetter"
+  ],
+  "apps": [
+    {
+      "name": "Hex Code Getter",
+      "bundleIdentifier": "io.altstore.hexcodegetter",
+      "developerName": "Zoe",
+      "subtitle": "Pull color palettes from your favorite characters.",
+      "localizedDescription": "Hex Code Getter extracts color palettes from animated characters and gives you the exact hex codes. Search, import, organize into folders, and build your own character library.",
+      "iconURL": "https://raw.githubusercontent.com/zobeez/hex-code-getter/main/icon.png",
+      "tintColor": "#F54F32",
+      "screenshots": [
+        "https://raw.githubusercontent.com/zobeez/hex-code-getter/main/screenshots/screenshot1.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-30",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://github.com/zobeez/hex-code-getter/releases/download/v1.0/HexCodeGetter-1.0.ipa",
+          "size": 279173,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
