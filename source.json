@@ -50,7 +50,7 @@
     },
     {
       "name": "goose clicker",
-      "bundleIdentifier": "devplaceholder.B2S5RCKS.goose_clicker",
+      "bundleIdentifier": "io.altstore.gooseclicker",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -69,7 +69,7 @@
         {
           "version": "1.0",
           "date": "2026-06-30",
-          "size": 164512,
+          "size": 164502,
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/GooseClicker.ipa",
           "localizedDescription": "Initial release.",
           "buildVersion": "1",
