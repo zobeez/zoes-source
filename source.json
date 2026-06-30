@@ -69,9 +69,9 @@
         {
           "version": "1.1",
           "date": "2026-06-30",
-          "size": 167970,
+          "size": 264621,
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/GooseClicker-1.1.ipa",
-          "localizedDescription": "What's new in 1.1:\n• Bigger, easier-to-tap mute button\n• New \"cha-ching\" sound when buying from the shop\n• Golden-yellow accent across the tab bar, mute button, and shop\n• Refreshed tab icons, with the first tab now \"Home\"\n• Tidied-up shop header layout",
+          "localizedDescription": "What's new in 1.1:\n• Bigger, easier-to-tap mute button\n• New \"cha-ching\" sound when buying from the shop\n• Golden-yellow accent across the tab bar, mute button, and shop\n• Refreshed tab icons, with the first tab now \"Home\"\n• Shop egg count stays pinned while you scroll\n• Upgrades now shown in a swipeable 2×2 grid\n• Farmhands give the goose more room — no more overlapping",
           "buildVersion": "2",
           "minOSVersion": "26.0"
         },
