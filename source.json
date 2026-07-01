@@ -146,9 +146,9 @@
           "buildVersion": "1",
           "date": "2026-07-01",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/CustomWatchFaces-1.0.ipa",
-          "size": 144632,
+          "size": 202085,
           "localizedDescription": "Initial release.",
-          "minOSVersion": "27.0"
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
@@ -159,7 +159,11 @@
           "com.apple.developer.team-identifier"
         ],
         "privacy": {}
-      }
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-1.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-2.png"
+      ]
     }
   ]
 }
