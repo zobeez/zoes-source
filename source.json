@@ -11,99 +11,6 @@
     "io.altstore.gooseclicker",
     "io.altstore.hexcodegetter"
   ],
-  "apps": [
-    {
-      "name": "hex code getter",
-      "bundleIdentifier": "io.altstore.hexcodegetter",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-      "tintColor": "#5CA399",
-      "screenshots": [
-        "https://example.com/myapp_portrait_screenshot1.png",
-        "https://example.com/myapp_portrait_screenshot2.png",
-        {
-          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-          "width": 2556,
-          "height": 1179
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-06-30",
-          "size": 279173,
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0.ipa",
-          "localizedDescription": "Initial release.",
-          "buildVersion": "1",
-          "minOSVersion": "17.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups",
-          "com.apple.developer.siri"
-        ],
-        "privacy": {}
-      }
-    },
-    {
-      "name": "goose clicker",
-      "bundleIdentifier": "io.altstore.gooseclicker",
-      "developerName": "Zoe Beisner",
-      "subtitle": "Who's really more important?",
-      "localizedDescription": "Goose Clicker is an idle game about one alarmingly productive goose.\n\nTap to lay golden eggs, then hire farmhands, build coops and conveyor belts, and buy upgrades that slowly turn your humble egg farm into something far larger.\n\n• Tap the goose to lay golden eggs\n• Hire idle producers that keep earning while you're away\n• Unlock upgrades and watch each part of the farm transform\n\nFree-range, ethically ambiguous, wildly profitable.",
-      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/icon.png",
-      "tintColor": "#F5C238",
-      "category": "games",
-      "screenshots": [
-        "https://example.com/myapp_portrait_screenshot1.png",
-        "https://example.com/myapp_portrait_screenshot2.png",
-        {
-          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-          "width": 2556,
-          "height": 1179
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2026-06-30",
-          "size": 264622,
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.2.ipa",
-          "localizedDescription": "What's new in 1.2:\n• Shop egg count stays pinned while you scroll\n• Upgrades now shown in a swipeable 2×2 grid\n• Farmhands give the goose more room — no more overlapping",
-          "buildVersion": "3",
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.1",
-          "date": "2026-06-30",
-          "size": 264621,
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.1.ipa",
-          "localizedDescription": "What's new in 1.1:\n• Bigger, easier-to-tap mute button\n• New \"cha-ching\" sound when buying from the shop\n• Golden-yellow accent across the tab bar, mute button, and shop\n• Refreshed tab icons, with the first tab now \"Home\"\n• Shop egg count stays pinned while you scroll\n• Upgrades now shown in a swipeable 2×2 grid\n• Farmhands give the goose more room — no more overlapping",
-          "buildVersion": "2",
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0",
-          "date": "2026-06-30",
-          "size": 164502,
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.0.ipa",
-          "localizedDescription": "Initial release.",
-          "buildVersion": "1",
-          "minOSVersion": "26.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups",
-          "com.apple.developer.siri"
-        ],
-        "privacy": {}
-      }
-    }
-  ],
   "news": [
     {
       "title": "New Feature Announcement",
@@ -124,6 +31,100 @@
       "imageURL": "https://example.com/app_update_image.png",
       "notify": false,
       "appID": "com.example.myapp"
+    }
+  ],
+  "apps": [
+    {
+      "name": "hex code getter",
+      "bundleIdentifier": "io.altstore.hexcodegetter",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
+      "category": "photo-video",
+      "screenshots": [
+        "https://example.com/myapp_portrait_screenshot1.png",
+        "https://example.com/myapp_portrait_screenshot2.png",
+        {
+          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-30",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0.ipa",
+          "size": 279173,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Initial release."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "goose clicker",
+      "bundleIdentifier": "io.altstore.gooseclicker",
+      "developerName": "Zoe Beisner",
+      "subtitle": "Who's really more important?",
+      "localizedDescription": "Goose Clicker is an idle game about one alarmingly productive goose.\n\nTap to lay golden eggs, then hire farmhands, build coops and conveyor belts, and buy upgrades that slowly turn your humble egg farm into something far larger.\n\n• Tap the goose to lay golden eggs\n• Hire idle producers that keep earning while you're away\n• Unlock upgrades and watch each part of the farm transform\n\nFree-range, ethically ambiguous, wildly profitable.",
+      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/icon.png",
+      "tintColor": "#F5C238",
+      "category": "games",
+      "screenshots": [
+        "https://example.com/myapp_portrait_screenshot1.png",
+        "https://example.com/myapp_portrait_screenshot2.png",
+        {
+          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "3",
+          "date": "2026-06-30",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.2.ipa",
+          "size": 264622,
+          "minOSVersion": "26.0",
+          "localizedDescription": "What's new in 1.2:\n• Shop egg count stays pinned while you scroll\n• Upgrades now shown in a swipeable 2×2 grid\n• Farmhands give the goose more room — no more overlapping"
+        },
+        {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-06-30",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.1.ipa",
+          "size": 264621,
+          "minOSVersion": "26.0",
+          "localizedDescription": "What's new in 1.1:\n• Bigger, easier-to-tap mute button\n• New \"cha-ching\" sound when buying from the shop\n• Golden-yellow accent across the tab bar, mute button, and shop\n• Refreshed tab icons, with the first tab now \"Home\"\n• Shop egg count stays pinned while you scroll\n• Upgrades now shown in a swipeable 2×2 grid\n• Farmhands give the goose more room — no more overlapping"
+        },
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-30",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.0.ipa",
+          "size": 164502,
+          "minOSVersion": "26.0",
+          "localizedDescription": "Initial release."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {}
+      }
     }
   ]
 }
