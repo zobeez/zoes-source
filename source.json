@@ -51,20 +51,13 @@
     {
       "name": "goose clicker",
       "bundleIdentifier": "io.altstore.gooseclicker",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-      "tintColor": "#5CA399",
-      "screenshots": [
-        "https://example.com/myapp_portrait_screenshot1.png",
-        "https://example.com/myapp_portrait_screenshot2.png",
-        {
-          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-          "width": 2556,
-          "height": 1179
-        }
-      ],
+      "developerName": "Zoe",
+      "subtitle": "Who's really more important?",
+      "localizedDescription": "Goose Clicker is a cozy idle game about one alarmingly productive goose.\n\nTap to lay golden eggs, then hire farmhands, build coops and conveyor belts, and buy upgrades that slowly turn your humble egg farm into a runaway AI operation.\n\n• Tap the goose to lay golden eggs\n• Hire idle producers that keep earning while you're away\n• Unlock upgrades and evolve each part of the farm into its AI form\n• A gently satirical take on startups, automation, and superintelligent poultry\n\nFree-range, ethically ambiguous, wildly profitable.",
+      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/icon.png",
+      "tintColor": "#F5C238",
+      "category": "games",
+      "screenshots": [],
       "versions": [
         {
           "version": "1.2",
