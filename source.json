@@ -30,6 +30,15 @@
       ],
       "versions": [
         {
+          "version": "1.1",
+          "date": "2026-07-01",
+          "size": 3936576,
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/HexCodeGetter-1.1.ipa",
+          "localizedDescription": "Updated app icon.",
+          "buildVersion": "2",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0",
           "date": "2026-07-01",
           "size": 279173,
