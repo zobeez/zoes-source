@@ -98,6 +98,15 @@
       ],
       "versions": [
         {
+          "version": "1.4",
+          "buildVersion": "5",
+          "date": "2026-07-01",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.4.ipa",
+          "size": 6541018,
+          "minOSVersion": "26.0",
+          "localizedDescription": "What's new in 1.4:\n• New one-time intro story that plays the first time you open the game\n• Art and UI polish"
+        },
+        {
           "version": "1.3",
           "buildVersion": "4",
           "date": "2026-07-01",
