@@ -33,7 +33,7 @@
           "version": "1.0",
           "date": "2026-07-01",
           "size": 279173,
-          "downloadURL": "https://example.com/myapp_v1.0.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/HexCodeGetter-1.0.ipa",
           "localizedDescription": "Initial release.",
           "buildVersion": "1",
           "minOSVersion": "17.0"
