@@ -40,7 +40,7 @@
       "developerName": "Zoe Beisner",
       "subtitle": "Color to your heart's content- accurately.",
       "localizedDescription": "Hex Code Getter allows you to make any character into a ready-to-use color palette. Add a character from your photo library, a search by name, or a Wikipedia article — the app automatically removes the background, finds the dominant colors, and hands you clean #RRGGBB hex codes you can tap to copy.\n\nPerfect for artists, designers, cosplayers, and anyone who wants a character's exact colors without eyedropping by hand.\n\nFeatures\n• Add characters from a photo, a web image search by name, or a Wikipedia link\n• Automatic background removal so only the character's colors are detected\n• Dominant-color extraction into a tidy hex palette, with copy-ready #RRGGBB codes\n• Filter palettes by color family — reds, blues, greens, browns, and more\n• Save characters into folders to organize your collections\n• Fast, on-device color analysis",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/icon.png",
       "tintColor": "#5CA399",
       "category": "photo-video",
       "screenshots": [
@@ -53,6 +53,15 @@
         }
       ],
       "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-07-01",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.1.ipa",
+          "size": 5049866,
+          "minOSVersion": "17.0",
+          "localizedDescription": "What's new in 1.1:\n• Brand-new app icon"
+        },
         {
           "version": "1.0",
           "buildVersion": "1",
