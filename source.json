@@ -81,13 +81,11 @@
       "tintColor": "#F5C238",
       "category": "games",
       "screenshots": [
-        "https://example.com/myapp_portrait_screenshot1.png",
-        "https://example.com/myapp_portrait_screenshot2.png",
-        {
-          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-          "width": 2556,
-          "height": 1179
-        }
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/early-home.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/early-shop.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/mid-empire.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/late-shop.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/late-empire.png"
       ],
       "versions": [
         {
@@ -131,6 +129,34 @@
         "entitlements": [
           "com.apple.security.application-groups",
           "com.apple.developer.siri"
+        ],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Custom Watch Faces",
+      "bundleIdentifier": "zoe.custom-watch-face",
+      "developerName": "Zoe Beisner",
+      "subtitle": "Customize your Apple Watch!",
+      "localizedDescription": "Custom Watch Faces brings a bespoke, always-on face to your Apple Watch. Open the app to display a full-screen animated watch face designed to stay lit while it's on your wrist.\n\n• A clean, full-screen animated watch face\n• Built to stay awake while you glance down\n• Lightweight and simple to use\n\nA fun, personalized way to give your Apple Watch a fresh look.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-01",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/CustomWatchFaces-1.0.ipa",
+          "size": 144632,
+          "localizedDescription": "Initial release.",
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "keychain-access-groups",
+          "get-task-allow",
+          "com.apple.developer.team-identifier"
         ],
         "privacy": {}
       }
