@@ -156,12 +156,21 @@
       "developerName": "Zoe Beisner",
       "subtitle": "Customize your Apple Watch!",
       "localizedDescription": "Custom Watch Faces brings a bespoke, always-on face to your Apple Watch. Open the app to display a full-screen animated watch face designed to stay lit while it's on your wrist.\n\n• A clean, full-screen animated watch face\n• Built to stay awake while you glance down\n• Lightweight and simple to use\n\nA fun, personalized way to give your Apple Watch a fresh look.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/icon.png",
       "screenshots": [
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-1.png",
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-2.png"
       ],
       "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-07-02",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/CustomWatchFaces-1.1.ipa",
+          "size": 5969163,
+          "minOSVersion": "17.0",
+          "localizedDescription": "What's new in 1.1:\n• 9 new watch faces: Steampunk, Lily Pad, Ripple, Radiance, Cyber, Ace, Linen, Proper, and Kitty\n• Brand-new app icon\n• Clearer setup instructions with step-by-step visuals"
+        },
         {
           "version": "1.0",
           "buildVersion": "1",
