@@ -8,8 +8,9 @@
   "patreonURL": "https://www.patreon.com/cw/example",
   "tintColor": "#4185A9",
   "featuredApps": [
+    "io.altstore.hexcodegetter",
     "io.altstore.gooseclicker",
-    "io.altstore.hexcodegetter"
+    "zoe.custom-watch-face"
   ],
   "news": [
     {
