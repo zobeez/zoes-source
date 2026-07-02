@@ -1,11 +1,10 @@
 {
   "name": "Zoe's Source",
   "subtitle": "The amazing standalone intern makes some apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "description": "Welcome! Here you will find all my apps I made whilst under rulership of the great Shane Gill and Riley Testut. Long live AltStore",
   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-  "website": "https://example.com",
-  "patreonURL": "https://www.patreon.com/cw/example",
+  "website": "https://vsco.co/zobeis",
   "tintColor": "#4185A9",
   "featuredApps": [
     "io.altstore.hexcodegetter",
