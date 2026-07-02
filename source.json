@@ -4,8 +4,7 @@
   "description": "Welcome! Here you will find all my apps I made whilst under rulership of the great Shane Gill and Riley Testut. Long live AltStore",
   "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/bunnyprofile.png",
   "headerURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/header.png",
-  "website": "https://vsco.co/zobeis",
-  "tintColor": "#4185A9",
+  "tintColor": "#FAC8D6",
   "featuredApps": [
     "io.altstore.hexcodegetter",
     "io.altstore.gooseclicker",
