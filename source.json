@@ -4,7 +4,7 @@
   "description": "Welcome! Here you will find all my apps I made whilst under rulership of the great Shane Gill and Riley Testut. Long live AltStore",
   "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/bunnyprofile.png",
   "headerURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/header.png",
-  "tintColor": "#FAC8D6",
+  "tintColor": "#F5C238",
   "featuredApps": [
     "io.altstore.hexcodegetter",
     "io.altstore.gooseclicker",
@@ -157,6 +157,7 @@
       "subtitle": "Customize your Apple Watch!",
       "localizedDescription": "Custom Watch Faces brings a bespoke, always-on face to your Apple Watch. Open the app to display a full-screen animated watch face designed to stay lit while it's on your wrist.\n\n• A clean, full-screen animated watch face\n• Built to stay awake while you glance down\n• Lightweight and simple to use\n\nA fun, personalized way to give your Apple Watch a fresh look.",
       "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/icon.png",
+      "tintColor": "#86D0FF",
       "screenshots": [
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-1.png",
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-2.png"
