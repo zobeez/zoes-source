@@ -17,6 +17,7 @@
       "caption": "My watch face app just landed on the source — tap to install.",
       "date": "2026-07-02",
       "tintColor": "#D48FB0",
+      "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/icon.png",
       "notify": true,
       "appID": "zoe.custom-watch-face"
     }
