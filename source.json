@@ -94,6 +94,15 @@
       ],
       "versions": [
         {
+          "version": "1.6",
+          "buildVersion": "7",
+          "date": "2026-07-06",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.6.ipa",
+          "size": 6702273,
+          "minOSVersion": "26.0",
+          "localizedDescription": "What's new in 1.6:\n• You can now delete any save from the Savefiles page — including the game you're currently playing (which resets that slot to a fresh game)"
+        },
+        {
           "version": "1.5",
           "buildVersion": "6",
           "date": "2026-07-06",
