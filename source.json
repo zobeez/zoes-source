@@ -13,6 +13,16 @@
   ],
   "news": [
     {
+      "title": "New sounds for Lock Screen Sound!",
+      "identifier": "lock_screen_sound_1_1",
+      "caption": "Three new built-in effects — plus you can now import your own MP3.",
+      "date": "2026-07-06",
+      "tintColor": "#5B8DEF",
+      "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/announcement.png?v=1",
+      "notify": true,
+      "appID": "zoe.lock-screen-sound"
+    },
+    {
       "title": "Lock Screen Sound is here!",
       "identifier": "lock_screen_sound_launch",
       "caption": "Play a sound every time your phone locks — pick from five built-in effects.",
@@ -244,6 +254,15 @@
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/screenshot-2.png"
       ],
       "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-07-06",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/LockScreenSound-1.1.ipa",
+          "size": 4980505,
+          "minOSVersion": "26.0",
+          "localizedDescription": "What's new in 1.1:\n• Three new royalty-free sounds — Level Up, Twinkle, and Success\n• Import your own MP3 to play when your phone locks\n• Your chosen sound is now remembered between launches"
+        },
         {
           "version": "1.0",
           "buildVersion": "1",
