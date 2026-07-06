@@ -33,13 +33,10 @@
       "tintColor": "#6B67DE",
       "category": "photo-video",
       "screenshots": [
-        "https://example.com/myapp_portrait_screenshot1.png",
-        "https://example.com/myapp_portrait_screenshot2.png",
-        {
-          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-          "width": 2556,
-          "height": 1179
-        }
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-1.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-2.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-3.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-4.png"
       ],
       "versions": [
         {
