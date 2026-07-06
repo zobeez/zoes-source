@@ -23,16 +23,6 @@
       "appID": "zoe.lock-screen-sound"
     },
     {
-      "title": "Lock Screen Sound is here!",
-      "identifier": "lock_screen_sound_launch",
-      "caption": "Play a sound every time your phone locks — pick from five built-in effects.",
-      "date": "2026-07-06",
-      "tintColor": "#5B8DEF",
-      "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/announcement.png?v=1",
-      "notify": true,
-      "appID": "zoe.lock-screen-sound"
-    },
-    {
       "title": "Hex Code Getter is here!",
       "identifier": "hex_code_getter_launch",
       "caption": "Turn any character into a copy-ready hex color palette — automatically.",
