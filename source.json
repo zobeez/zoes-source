@@ -218,6 +218,32 @@
         ],
         "privacy": {}
       }
+    },
+    {
+      "name": "Lock Screen Sound",
+      "bundleIdentifier": "zoe.lock-screen-sound",
+      "developerName": "Zoe Beisner",
+      "subtitle": "Play a sound whenever your phone locks.",
+      "localizedDescription": "Lock Screen Sound plays a sound effect every time you lock your iPhone (or the screen turns off).\n\nPick from five built-in sounds — Beep, Chime, Coin, Power Down, and Alarm — preview any of them with a tap, then start monitoring. Leave the app running and every lock plays your chosen sound.\n\nFeatures\n• Five synthesized sound effects — no downloads or audio files\n• One-tap preview to hear a sound before you pick it\n• Start/stop monitoring with a clear status indicator\n\nNote: The app relies on continuous background audio and a private system API to detect when your phone locks, so it isn't available on the App Store.",
+      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/icon.png",
+      "tintColor": "#5B8DEF",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-06",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/LockScreenSound-1.0.ipa",
+          "size": 4618975,
+          "minOSVersion": "26.0",
+          "localizedDescription": "Initial release."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ]
 }
