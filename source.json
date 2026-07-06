@@ -12,6 +12,16 @@
   ],
   "news": [
     {
+      "title": "Save Files come to Goose Clicker!",
+      "identifier": "goose_savefiles",
+      "caption": "Keep up to 3 goose empires at once — name, swap, and delete your games.",
+      "date": "2026-07-06",
+      "tintColor": "#F5C238",
+      "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/announcement.png?v=1",
+      "notify": true,
+      "appID": "io.altstore.gooseclicker"
+    },
+    {
       "title": "Custom Watch Faces is here!",
       "identifier": "watch_faces_launch",
       "caption": "My watch face app just landed on the source — tap to install.",
@@ -83,6 +93,15 @@
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/late-empire.png"
       ],
       "versions": [
+        {
+          "version": "1.5",
+          "buildVersion": "6",
+          "date": "2026-07-06",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.5.ipa",
+          "size": 6702330,
+          "minOSVersion": "26.0",
+          "localizedDescription": "What's new in 1.5:\n• Save Files — keep up to 3 separate games. Name, load, overwrite, and delete them from the new Savefiles page (folder button, top-left of the home screen)\n• Starting a new game replays the intro story\n• Goose Coops are cheaper to unlock early on\n• Smoother Upgrades grid with a peek at the next column so it's clear you can scroll\n• Home screen layout polish"
+        },
         {
           "version": "1.4",
           "buildVersion": "5",
