@@ -13,12 +13,12 @@
   ],
   "news": [
     {
-      "title": "Lock Screen Sound 1.3",
-      "identifier": "lock_screen_sound_1_3",
-      "caption": "More sounds, pinning, and a cleaner always-on list.",
-      "date": "2026-07-06",
+      "title": "Lock Screen Sound 1.4",
+      "identifier": "lock_screen_sound_1_4",
+      "caption": "A simpler home screen and a cleaner sound list.",
+      "date": "2026-07-07",
       "tintColor": "#4CAF50",
-      "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/announcement.png?v=4",
+      "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/announcement.png?v=5",
       "notify": true,
       "appID": "zoe.lock-screen-sound"
     },
@@ -240,10 +240,19 @@
       "tintColor": "#5B8DEF",
       "category": "utilities",
       "screenshots": [
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/screenshot-1.png?v=3",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/screenshot-2.png?v=3"
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/screenshot-1.png?v=4",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/screenshot-2.png?v=4"
       ],
       "versions": [
+        {
+          "version": "1.4",
+          "buildVersion": "5",
+          "date": "2026-07-07",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/LockScreenSound-1.4.ipa",
+          "size": 5556720,
+          "minOSVersion": "26.0",
+          "localizedDescription": "What's new in 1.4:\n• Simpler home screen — your current sound front and center with a one-tap test\n• Tap More Sounds for the full list; Import MP3 is now right at the top\n• Visual polish throughout"
+        },
         {
           "version": "1.3",
           "buildVersion": "4",
