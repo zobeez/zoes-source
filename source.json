@@ -107,11 +107,9 @@
       "tintColor": "#F5C238",
       "category": "games",
       "screenshots": [
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/early-home.png",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/early-shop.png",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/mid-empire.png",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/late-shop.png",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/late-empire.png"
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/v1-home.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/v1-tapping.png",
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/screenshots/v1-intro.png"
       ],
       "versions": [
         {
@@ -119,7 +117,7 @@
           "buildVersion": "1",
           "date": "2026-07-07",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.0.ipa",
-          "size": 6445460,
+          "size": 6444268,
           "minOSVersion": "26.0",
           "localizedDescription": "Initial release."
         }
