@@ -102,7 +102,7 @@
       "bundleIdentifier": "io.altstore.gooseclicker",
       "developerName": "Zoe Beisner",
       "subtitle": "Who's really more important?",
-      "localizedDescription": "Goose Clicker is an idle game about one alarmingly productive goose.\n\nTap to lay golden eggs, then hire farmhands, build coops and conveyor belts, and buy upgrades that slowly turn your humble egg farm into something far larger.\n\n• Tap the goose to lay golden eggs\n• Hire idle producers that keep earning while you're away\n• Unlock upgrades and watch each part of the farm transform\n\nFree-range, ethically ambiguous, wildly profitable.",
+      "localizedDescription": "Goose Clicker is a simple idle game about one alarmingly productive goose.\n\nTap the goose to grow your shareholder value — that's the whole business plan.\n\nFree-range, ethically ambiguous, wildly profitable.",
       "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/icon.png",
       "tintColor": "#F5C238",
       "category": "games",
@@ -115,65 +115,11 @@
       ],
       "versions": [
         {
-          "version": "1.6",
-          "buildVersion": "7",
-          "date": "2026-07-06",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.6.ipa",
-          "size": 6702273,
-          "minOSVersion": "26.0",
-          "localizedDescription": "What's new in 1.6:\n• You can now delete any save from the Savefiles page — including the game you're currently playing (which resets that slot to a fresh game)"
-        },
-        {
-          "version": "1.5",
-          "buildVersion": "6",
-          "date": "2026-07-06",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.5.ipa",
-          "size": 6702330,
-          "minOSVersion": "26.0",
-          "localizedDescription": "What's new in 1.5:\n• Save Files — keep up to 3 separate games. Name, load, overwrite, and delete them from the new Savefiles page (folder button, top-left of the home screen)\n• Starting a new game replays the intro story\n• Goose Coops are cheaper to unlock early on\n• Smoother Upgrades grid with a peek at the next column so it's clear you can scroll\n• Home screen layout polish"
-        },
-        {
-          "version": "1.4",
-          "buildVersion": "5",
-          "date": "2026-07-01",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.4.ipa",
-          "size": 6541018,
-          "minOSVersion": "26.0",
-          "localizedDescription": "What's new in 1.4:\n• New one-time intro story that plays the first time you open the game\n• Art and UI polish"
-        },
-        {
-          "version": "1.3",
-          "buildVersion": "4",
-          "date": "2026-07-01",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.3.ipa",
-          "size": 6236077,
-          "minOSVersion": "26.0",
-          "localizedDescription": "What's new in 1.3:\n• Fresh new app icon"
-        },
-        {
-          "version": "1.2",
-          "buildVersion": "3",
-          "date": "2026-06-30",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.2.ipa",
-          "size": 264622,
-          "minOSVersion": "26.0",
-          "localizedDescription": "What's new in 1.2:\n• Shop egg count stays pinned while you scroll\n• Upgrades now shown in a swipeable 2×2 grid\n• Farmhands give the goose more room — no more overlapping"
-        },
-        {
-          "version": "1.1",
-          "buildVersion": "2",
-          "date": "2026-06-30",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.1.ipa",
-          "size": 264621,
-          "minOSVersion": "26.0",
-          "localizedDescription": "What's new in 1.1:\n• Bigger, easier-to-tap mute button\n• New \"cha-ching\" sound when buying from the shop\n• Golden-yellow accent across the tab bar, mute button, and shop\n• Refreshed tab icons, with the first tab now \"Home\"\n• Shop egg count stays pinned while you scroll\n• Upgrades now shown in a swipeable 2×2 grid\n• Farmhands give the goose more room — no more overlapping"
-        },
-        {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-06-30",
+          "date": "2026-07-07",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/GooseClicker-1.0.ipa",
-          "size": 164502,
+          "size": 6445460,
           "minOSVersion": "26.0",
           "localizedDescription": "Initial release."
         }
