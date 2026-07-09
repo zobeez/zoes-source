@@ -72,9 +72,9 @@
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-07-07",
+          "date": "2026-07-09",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0.ipa",
-          "size": 3820064,
+          "size": 3842774,
           "minOSVersion": "17.0",
           "localizedDescription": "Hex Code Getter turns any character into a copy-ready color palette — automatically. It's all on one simple page: your character library, each entry showing clean #RRGGBB hex codes you can tap to copy.\n\nWhat's included:\n• Three ways to add — pick a photo from your library, search by name for a web image, or paste a Wikipedia article, and the app builds the palette for you.\n• Automatic background removal — only the character's own colors are detected, not whatever was behind it.\n• Dominant-color extraction — the key colors are pulled out and handed to you as copy-ready #RRGGBB hex codes.\n• A searchable single-page library — everything you add lives in one place with its palette on the card; search to jump to any character, and edit to rename or remove.\n• Fast, on-device color analysis — no accounts, no uploads.\n\nMore coming soon!"
         }
