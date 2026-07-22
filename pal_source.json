@@ -125,7 +125,7 @@
     {
       "name": "Custom Watch Faces",
       "bundleIdentifier": "zoe.custom-watch-face",
-      "marketplaceID": "6791643679",
+      "marketplaceID": "6791703561",
       "developerName": "Zoe Beisner",
       "subtitle": "Customize your Apple Watch!",
       "localizedDescription": "Custom Watch Faces brings a bespoke, always-on face to your Apple Watch. Open the app to display a full-screen animated watch face designed to stay lit while it's on your wrist.\n\n• A clean, full-screen animated watch face\n• Built to stay awake while you glance down\n• Lightweight and simple to use\n\nA fun, personalized way to give your Apple Watch a fresh look.",
@@ -161,7 +161,7 @@
     {
       "name": "Lock Screen Sound",
       "bundleIdentifier": "zoe.lock-screen-sound",
-      "marketplaceID": "6791643679",
+      "marketplaceID": "6791630380",
       "developerName": "Zoe Beisner",
       "subtitle": "Play a sound whenever your phone locks.",
       "localizedDescription": "Lock Screen Sound plays a sound effect every time you lock your iPhone (or the screen turns off).\n\nPick from many built-in sounds and preview any of them with a tap. Leave the app running and every lock plays your chosen sound.\n\nFeatures\n• Fifteen synthesized sound effects — no downloads or audio files\n• Use any sound effect of your choosing with a simple MP3 import\n• One-tap preview to hear a sound before you pick it\n\nNote: app must be open and running in the background to play the lock sound.",
