@@ -8,8 +8,8 @@
   "featuredApps": [
     "io.altstore.hexcodegetter",
     "io.altstore.gooseclicker",
-    "zoe.custom-watch-face",
-    "zoe.lock-screen-sound"
+    "io.altstore.customwatchface",
+    "io.altstore.lockscreensound"
   ],
   "news": [
     {
@@ -20,7 +20,7 @@
       "tintColor": "#4CAF50",
       "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/announcement.png?v=7",
       "notify": true,
-      "appID": "zoe.lock-screen-sound"
+      "appID": "io.altstore.lockscreensound"
     },
     {
       "title": "Hex Code Getter is here!",
@@ -50,7 +50,7 @@
       "tintColor": "#D48FB0",
       "imageURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/announcement.png?v=8",
       "notify": true,
-      "appID": "zoe.custom-watch-face"
+      "appID": "io.altstore.customwatchface"
     }
   ],
   "apps": [
@@ -124,7 +124,7 @@
     },
     {
       "name": "Custom Watch Faces",
-      "bundleIdentifier": "zoe.custom-watch-face",
+      "bundleIdentifier": "io.altstore.customwatchface",
       "marketplaceID": "6791703561",
       "developerName": "Zoe Beisner",
       "subtitle": "Customize your Apple Watch!",
@@ -142,25 +142,20 @@
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-07-07",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/CustomWatchFaces-1.0.ipa",
-          "size": 5965699,
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/adp/1.0/manifest.json",
+          "size": 1395515,
           "minOSVersion": "17.0",
           "localizedDescription": "Custom Watch Faces puts a collection of 8 handcrafted analog faces on your Apple Watch — no design tools or tinkering required. Install the app on your iPhone and it automatically delivers a companion app to your paired Apple Watch, where you pick a face and keep it on screen like a real watch face.\n\nWhat's included:\n• 8 built-in faces — Steampunk, Lily Pad, Ripple, Radiance, Cyber, Linen, Proper, and Kitty — each with its own color palette, hand style, and dial treatment.\n• Day-and-date display on faces that support it, so you always know the date at a glance.\n• Always-legible analog hands designed to stay readable in bright light and in the Always-On dimmed state.\n\nGetting set up:\n• Illustrated, step-by-step instructions walk you through installing the face on your watch and switching to it.\n• Clear \"Return to Clock\" guidance so your chosen face behaves like a true watch face after your wrist drops, instead of closing like an ordinary app.\n\nThis is the first public release. Thanks for installing — more faces and refinements are on the way."
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "keychain-access-groups",
-          "get-task-allow",
-          "com.apple.developer.team-identifier"
-        ],
+        "entitlements": [],
         "privacy": {}
       }
     },
     {
       "name": "Lock Screen Sound",
-      "bundleIdentifier": "zoe.lock-screen-sound",
+      "bundleIdentifier": "io.altstore.lockscreensound",
       "marketplaceID": "6791630380",
       "developerName": "Zoe Beisner",
       "subtitle": "Play a sound whenever your phone locks.",
@@ -175,10 +170,10 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "1",
+          "buildVersion": "2",
           "date": "2026-07-07",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/LockScreenSound-1.0.ipa",
-          "size": 5561390,
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/adp/1.0/manifest.json",
+          "size": 1500604,
           "minOSVersion": "26.0",
           "localizedDescription": "Lock Screen Sound plays a sound effect every time you lock your phone. It's all on one simple page: your current sound front and center with a one-tap test, and the full sound list a tap away.\n\nWhat's included:\n• Three kinds of sounds — synthesized classic tones (Beep, Chime, Coin, Power Down, Alarm), ready-made effects (Level Up, Twinkle, Success), and some funny picks (Car Horn, Spring Jump, Explosion, Metal Pipe, Fah, Sus, Hello There).\n• Tap to preview — every sound plays a sample the moment you select it, so you always know what you're setting.\n• Bring your own — import any MP3 right from the app, then rename or remove it whenever you like.\n• Pin your favorites — swipe to pin up to three sounds to the top of the list so they're always one tap away.\n• A simple home screen — your current sound sits front and center; tap it to open the full list, or hit Test to hear it on demand.\n• Always on, automatically — monitoring starts the moment you open the app; just keep it running in the background and it'll play your sound each time your phone locks."
         }
