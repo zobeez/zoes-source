@@ -71,6 +71,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "4",
+          "date": "2026-07-23",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0-build4.ipa",
+          "size": 3823934,
+          "minOSVersion": "17.0",
+          "localizedDescription": "The Liquid Glass search bar is now pinned to the top — it stays put and usable no matter how far you scroll the list, with cards passing cleanly behind it.\n\nEverything still lives on one searchable page with copy-ready #RRGGBB hex codes."
+        },
+        {
+          "version": "1.0",
           "buildVersion": "3",
           "date": "2026-07-23",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0-build3.ipa",
