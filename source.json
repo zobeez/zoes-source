@@ -71,6 +71,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-07-23",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0-build2.ipa",
+          "size": 3835139,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Updated the Add Character screen for a cleaner flow: just add your image, tap Save, and name the character in a quick prompt — the always-on name field and the in-screen character list are gone.\n\nAs always, everything lives on one searchable page with copy-ready #RRGGBB hex codes."
+        },
+        {
+          "version": "1.0",
           "buildVersion": "1",
           "date": "2026-07-14",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0.ipa",
