@@ -71,6 +71,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "3",
+          "date": "2026-07-23",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0-build3.ipa",
+          "size": 3824193,
+          "minOSVersion": "17.0",
+          "localizedDescription": "The search bar is now a clean, static Liquid Glass pill pinned at the top — no more grey background bar, and it stays put instead of sliding away as you scroll.\n\nEverything still lives on one searchable page with copy-ready #RRGGBB hex codes."
+        },
+        {
+          "version": "1.0",
           "buildVersion": "2",
           "date": "2026-07-23",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0-build2.ipa",
