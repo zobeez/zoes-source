@@ -71,6 +71,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "5",
+          "date": "2026-07-23",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0-build5.ipa",
+          "size": 3824290,
+          "minOSVersion": "17.0",
+          "localizedDescription": "You can now pinch to zoom OUT in the image cropper. If a fetched image cuts off part of the character in the square, shrink it down until the whole character fits, with clean white padding around it."
+        },
+        {
+          "version": "1.0",
           "buildVersion": "4",
           "date": "2026-07-23",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/HexCodeGetter-1.0-build4.ipa",
