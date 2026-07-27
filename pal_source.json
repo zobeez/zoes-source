@@ -55,19 +55,19 @@
   ],
   "apps": [
     {
-      "name": "Hex Code Getter",
+      "name": "Character Colors",
       "bundleIdentifier": "io.altstore.hexcodegetter",
       "marketplaceID": "6791643679",
       "developerName": "Zoe Beisner",
-      "subtitle": "Color to your heart's content- accurately.",
-      "localizedDescription": "Hex Code Getter allows you to make any character into a ready-to-use color palette. Add a character from your photo library, a search by name, or a Wikipedia article — the app automatically removes the background, finds the dominant colors, and hands you clean #RRGGBB hex codes you can tap to copy.\n\nPerfect for artists, designers, cosplayers, and anyone who wants a character's exact colors without eyedropping by hand.\n\nFeatures\n• Add characters from a photo, a web image search by name, or a Wikipedia link\n• Automatic background removal so only the character's colors are detected\n• Dominant-color extraction into a tidy hex palette, with copy-ready #RRGGBB codes\n• Filter palettes by color family — reds, blues, greens, browns, and more\n• Fast, on-device color analysis",
+      "subtitle": "Get any character's hex codes",
+      "localizedDescription": "Makes any character into a ready-to-use color palette! Add a character from your photo library, paste an image, or search by name— the app automatically removes the background, finds the dominant colors, and hands you clean hex codes you can tap to copy.\n\nFeatures\n• Add characters from a photo or a search the web by name\n• Automatic background removal so only the character's colors are detected\n• Dominant-color extraction into a tidy hex palette, with copy-ready hex codes",
       "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/icon.png",
       "tintColor": "#6B67DE",
       "category": "photo-video",
       "screenshots": [
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-1.png",
         "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-2.png",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-3.png?v=2"
+        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/screenshot-3.png"
       ],
       "versions": [
         {
@@ -93,8 +93,8 @@
       "bundleIdentifier": "io.altstore.gooseclicker",
       "marketplaceID": "6791294843",
       "developerName": "Zoe Beisner",
-      "subtitle": "Who's really more important?",
-      "localizedDescription": "Goose Clicker is a simple idle game about one alarmingly productive goose.\n\nTap the goose to grow your shareholder value — that's the whole business plan.\n\nFree-range, ethically ambiguous, wildly profitable.",
+      "subtitle": "The goose creates the value",
+      "localizedDescription": "Goose Clicker is a simple idle game about one undervalued goose.\n\nTap the goose to produce eggs and grow your shareholder value!",
       "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/icon.png",
       "tintColor": "#F5C238",
       "category": "games",
@@ -123,43 +123,12 @@
       }
     },
     {
-      "name": "Custom Watch Faces",
-      "bundleIdentifier": "io.altstore.customwatchface",
-      "marketplaceID": "6791703561",
-      "developerName": "Zoe Beisner",
-      "subtitle": "Customize your Apple Watch!",
-      "localizedDescription": "Custom Watch Faces brings a bespoke, always-on face to your Apple Watch. Open the app to display a full-screen animated watch face designed to stay lit while it's on your wrist.\n\n• A clean, full-screen animated watch face\n• Built to stay awake while you glance down\n• Lightweight and simple to use\n\nA fun, personalized way to give your Apple Watch a fresh look.",
-      "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/icon.png",
-      "tintColor": "#86D0FF",
-      "screenshots": [
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-1.png?v=6",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-2.png?v=2",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-3.png?v=2",
-        "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/screenshot-4.png?v=2"
-      ],
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-07-07",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/custom-watch-faces/adp/1.0/manifest.json",
-          "size": 1395515,
-          "minOSVersion": "17.0",
-          "localizedDescription": "Custom Watch Faces puts a collection of 8 handcrafted analog faces on your Apple Watch — no design tools or tinkering required. Install the app on your iPhone and it automatically delivers a companion app to your paired Apple Watch, where you pick a face and keep it on screen like a real watch face.\n\nWhat's included:\n• 8 built-in faces — Steampunk, Lily Pad, Ripple, Radiance, Cyber, Linen, Proper, and Kitty — each with its own color palette, hand style, and dial treatment.\n• Day-and-date display on faces that support it, so you always know the date at a glance.\n• Always-legible analog hands designed to stay readable in bright light and in the Always-On dimmed state.\n\nGetting set up:\n• Illustrated, step-by-step instructions walk you through installing the face on your watch and switching to it.\n• Clear \"Return to Clock\" guidance so your chosen face behaves like a true watch face after your wrist drops, instead of closing like an ordinary app.\n\nThis is the first public release. Thanks for installing — more faces and refinements are on the way."
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
-    },
-    {
-      "name": "Lock Screen Sound",
+      "name": "SoundLocks",
       "bundleIdentifier": "io.altstore.lockscreensound",
       "marketplaceID": "6791630380",
       "developerName": "Zoe Beisner",
       "subtitle": "Play a sound whenever your phone locks.",
-      "localizedDescription": "Lock Screen Sound plays a sound effect every time you lock your iPhone (or the screen turns off).\n\nPick from many built-in sounds and preview any of them with a tap. Leave the app running and every lock plays your chosen sound.\n\nFeatures\n• Fifteen synthesized sound effects — no downloads or audio files\n• Use any sound effect of your choosing with a simple MP3 import\n• One-tap preview to hear a sound before you pick it\n\nNote: app must be open and running in the background to play the lock sound.",
+      "localizedDescription": "SoundLocks plays a sound effect every time you lock your iPhone!\n\nPick from many built-in sounds or import your own. Leave the app running to play your chosen sound.\n\nFeatures\n• Fifteen built-in sound effects\n• Use any sound effect of your choosing with a simple MP3 import\n• One-tap preview to hear a sound before you pick it\n\nNote: app must be open and running in the background to play the lock sound.",
       "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/icon.png",
       "tintColor": "#57C260",
       "category": "utilities",
