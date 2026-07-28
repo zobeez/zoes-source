@@ -70,7 +70,7 @@
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/adp/1.1/manifest.json",
           "size": 1220855,
           "minOSVersion": "17.0",
-          "localizedDescription": "initial release."
+          "localizedDescription": "Initial release."
         }
       ],
       "appPermissions": {
@@ -98,13 +98,13 @@
       ],
       "versions": [
         {
-          "version": "1.6",
-          "buildVersion": "7",
+          "version": "1.0",
+          "buildVersion": "1",
           "date": "2026-07-28",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/adp/1.6/manifest.json",
           "size": 1222739,
           "minOSVersion": "26.0",
-          "localizedDescription": "initial release."
+          "localizedDescription": "Initial release."
         }
       ],
       "appPermissions": {
@@ -132,12 +132,12 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "2",
+          "buildVersion": "1",
           "date": "2026-07-07",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/lock-screen-sound/adp/1.0/manifest.json",
           "size": 1500604,
           "minOSVersion": "26.0",
-          "localizedDescription": "Lock Screen Sound plays a sound effect every time you lock your phone. It's all on one simple page: your current sound front and center with a one-tap test, and the full sound list a tap away.\n\nWhat's included:\n• Three kinds of sounds — synthesized classic tones (Beep, Chime, Coin, Power Down, Alarm), ready-made effects (Level Up, Twinkle, Success), and some funny picks (Car Horn, Spring Jump, Explosion, Metal Pipe, Fah, Sus, Hello There).\n• Tap to preview — every sound plays a sample the moment you select it, so you always know what you're setting.\n• Bring your own — import any MP3 right from the app, then rename or remove it whenever you like.\n• Pin your favorites — swipe to pin up to three sounds to the top of the list so they're always one tap away.\n• A simple home screen — your current sound sits front and center; tap it to open the full list, or hit Test to hear it on demand.\n• Always on, automatically — monitoring starts the moment you open the app; just keep it running in the background and it'll play your sound each time your phone locks."
+          "localizedDescription": "Initial release."
         }
       ],
       "appPermissions": {
