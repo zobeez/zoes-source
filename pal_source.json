@@ -72,6 +72,15 @@
       ],
       "versions": [
         {
+          "version": "1.6",
+          "date": "2026-07-28",
+          "localizedDescription": "Goose Clicker grows up! The one-goose tapper is now a full idle empire.\n\nWhat's new:\n• A Shop — spend your shareholder value on upgrades that boost every tap.\n• Buildings & farmhands — passive producers that lay eggs while you're away.\n• Your Empire — a dedicated page tracking everything you've built.\n• Save slots — keep multiple games, start fresh, or jump back in anytime.\n• Dark mode fix — backgrounds now adapt so text stays readable in dark mode.\n\nThe goose still has the value. Now there's a lot more of it.",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/adp/1.6/manifest.json",
+          "size": 1222739,
+          "buildVersion": "7",
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0",
           "date": "2026-07-17",
           "localizedDescription": "The goose has the value, not the eggs.\n\nWhat's included:\n• Tap to earn — every tap on the goose lays a golden egg and bumps your Shareholder Value by one, with a satisfying little \"+1\" that floats up off the bird.\n• A one-time origin story — the first time you open the app, a short cutscene explains how it all began (spoiler: it began with 3 eggs).\n• Springy, tactile feedback — the goose squishes and bounces on every tap, backed by sound and haptics you can mute anytime from the speaker button.\n• Ever-rotating goose wisdom — a rotating cast of one-liners keeps the goose company at the bottom of the screen.\n• Your progress is safe — Shareholder Value saves automatically and is right where you left it next time you open up.\n\nJust you, the goose, and shareholder eggs. More is on the way.",
