@@ -64,8 +64,8 @@
       ],
       "versions": [
         {
-          "version": "1.1",
-          "buildVersion": "6",
+          "version": "1.0",
+          "buildVersion": "1",
           "date": "2026-07-28",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/hex-code-getter/adp/1.1/manifest.json",
           "size": 1220855,
