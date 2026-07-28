@@ -4,7 +4,6 @@
   "description": "Welcome! Here you will find all my apps I made whilst under rulership of the great Shane Gill and Riley Testut. Long live AltStore",
   "iconURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/bunnyprofile.png",
   "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
   "nsfw": false,
   "tintColor": "#F5C238",
   "featuredApps": [
@@ -46,7 +45,6 @@
         ],
         "privacy": {}
       },
-      "patreon": {},
       "marketplaceID": "6791643679"
     },
     {
@@ -81,7 +79,6 @@
         ],
         "privacy": {}
       },
-      "patreon": {},
       "marketplaceID": "6791294843"
     },
     {
@@ -112,7 +109,6 @@
         "entitlements": [],
         "privacy": {}
       },
-      "patreon": {},
       "marketplaceID": "6791630380"
     }
   ],
