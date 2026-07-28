@@ -101,34 +101,10 @@
         {
           "version": "1.6",
           "buildVersion": "7",
+          "marketingVersion": "1.0",
           "date": "2026-07-28T21:21:04Z",
           "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/df24326a-84e6-401d-80a5-3093a0bc9e52/manifest.json",
           "size": 1222739,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.6",
-          "buildVersion": "7",
-          "date": "2026-07-28T21:19:04Z",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/df24326a-84e6-401d-80a5-3093a0bc9e52/manifest.json",
-          "size": 1222739,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.6",
-          "buildVersion": "7",
-          "date": "2026-07-28T21:12:15Z",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/df24326a-84e6-401d-80a5-3093a0bc9e52/manifest.json",
-          "size": 1222739,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "2",
-          "marketingVersion": "1.0",
-          "date": "2026-07-28",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/apps/goose-clicker/adp/1.0/manifest.json",
-          "size": 1097983,
           "minOSVersion": "26.0",
           "localizedDescription": "Initial release."
         }
