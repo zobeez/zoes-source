@@ -99,12 +99,12 @@
       ],
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "2",
+          "version": "1.7",
+          "buildVersion": "8",
           "marketingVersion": "1.0",
-          "date": "2026-07-29T14:50:24Z",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/1fff0871-8cbd-4ee1-9f04-af84c0efea96/manifest.json",
-          "size": 1097983,
+          "date": "2026-07-29T21:17:00Z",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/main/17de0092-d6d1-4459-969c-971488ae218f/manifest.json",
+          "size": 1098762,
           "minOSVersion": "26.0",
           "localizedDescription": "Initial release."
         }
