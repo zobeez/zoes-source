@@ -20,8 +20,7 @@
       "date": "2026-07-07T20:00",
       "tintColor": "#F5C238",
       "imageURL": "https://github.com/zobeez/zoes-source/blob/main/apps/Goose%20Clicker/announcement.png?raw=true",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
+      "notify": false,
       "appID": "io.altstore.gooseclicker"
     },
     {
@@ -31,8 +30,7 @@
       "date": "2026-07-06T20:00",
       "tintColor": "#4CAF50",
       "imageURL": "https://eu32u8.altstudio.app/repo/zoe-s-source/files/95a22232cef94388e4d41769f6a6.png",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
+      "notify": false,
       "appID": "io.altstore.lockscreensound"
     },
     {
@@ -42,8 +40,7 @@
       "date": "2026-07-05T20:00",
       "tintColor": "#e3817e",
       "imageURL": "https://github.com/zobeez/zoes-source/blob/main/apps/Character%20Colors/announcement.png?raw=true",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
+      "notify": false,
       "appID": "io.altstore.hexcodegetter"
     }
   ],
