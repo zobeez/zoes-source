@@ -69,7 +69,7 @@
           "buildVersion": "6",
           "marketingVersion": "1.0",
           "date": "2026-07-28",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/refs/heads/main/apps/Character%20Colors/468f2dc7-7564-4706-975c-4804eecc0a23/manifest.json",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/refs/heads/main/apps/CharacterColors/468f2dc7-7564-4706-975c-4804eecc0a23/manifest.json",
           "size": 1220855,
           "minOSVersion": "17.0",
           "localizedDescription": "Initial release."
@@ -167,7 +167,7 @@
           "buildVersion": "3",
           "marketingVersion": "1.0",
           "date": "2026-07-30",
-          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/refs/heads/main/apps/Slop%20Bowlz/6f028354-00fd-4c0b-a588-a1dc295e233a/manifest.json",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/refs/heads/main/apps/SlopBowlz/6f028354-00fd-4c0b-a588-a1dc295e233a/manifest.json",
           "size": 1532012,
           "minOSVersion": "18.0",
           "localizedDescription": "Initial release."
