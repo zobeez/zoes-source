@@ -174,6 +174,34 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Fundial",
+      "bundleIdentifier": "io.altstore.fundial",
+      "marketplaceID": "6808416940",
+      "developerName": "Zoe Beisner",
+      "subtitle": "Customize your Apple Watch Face!",
+      "localizedDescription": "",
+      "iconURL": "https://github.com/zobeez/zoes-source/blob/main/apps/Fundial/icon.png?raw=true",
+      "tintColor": "#FFA500",
+      "category": "utilities",
+      "screenshots": [
+        "https://github.com/zobeez/zoes-source/blob/main/apps/Fundial/screenshot-1.png?raw=true"
+      ],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-09-10T16:52:46Z",
+          "downloadURL": "https://raw.githubusercontent.com/zobeez/zoes-source/refs/heads/main/apps/Fundial/9e3bf9fe-a2ec-431d-a266-ad8ded762f25/manifest.json",
+          "size": 1406490,
+          "minOSVersion": "17.5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ]
 }
