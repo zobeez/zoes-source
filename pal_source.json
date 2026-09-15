@@ -42,6 +42,15 @@
       "imageURL": "https://github.com/zobeez/zoes-source/blob/main/apps/Character%20Colors/announcement.png?raw=true",
       "notify": false,
       "appID": "io.altstore.hexcodegetter"
+    },
+    {
+      "title": "Fundial is now available!",
+      "identifier": "0AA4D634-011E-44DD-9696-2B86F42F2B0B",
+      "caption": "Custom watch faces for your Apple Watch",
+      "date": "2026-09-15T21:32:45Z",
+      "tintColor": "#E6C3FF",
+      "imageURL": "https://github.com/zobeez/zoes-source/blob/main/apps/Fundial/announcement.png?raw=true",
+      "appID": "io.altstore.fundial"
     }
   ],
   "apps": [
@@ -186,7 +195,9 @@
       "tintColor": "#FFA500",
       "category": "utilities",
       "screenshots": [
-        "https://github.com/zobeez/zoes-source/blob/main/apps/Fundial/screenshot-1.png?raw=true"
+        "https://github.com/zobeez/zoes-source/blob/main/apps/Fundial/screenshot-1.png?raw=true",
+        "https://github.com/zobeez/zoes-source/blob/main/apps/Fundial/screenshot-2.png?raw=true",
+        "https://github.com/zobeez/zoes-source/blob/main/apps/Fundial/screenshot-3.png?raw=true"
       ],
       "versions": [
         {
